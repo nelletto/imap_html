@@ -1,0 +1,8 @@
+{
+    "name": "IMAP HTML",
+    "homeassistant": "2023.4",
+    "hide_default_branch": true,
+    "zip_release": true,
+    "filename": "imap_html.zip",
+    "render_readme": true
+  }
